@@ -24,6 +24,7 @@ Allows loose coupling by encapsulating the way disparate sets of objects interac
 
 
 * The **______** pattern:  <Br /> <Br />
+
 * The **______** pattern:  <Br /> <Br />
 
 
